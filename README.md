@@ -30,9 +30,9 @@ An interactive single-page web app to simulate a virtual piggy bank. Users can d
 
 | 💰 Add Money | 📜 View History | 💥 Break & Restart |
 |-------------|------------------|--------------------|
-| ![Add](https://via.placeholder.com/300x200?text=Add+Money) | ![History](https://via.placeholder.com/300x200?text=Transaction+List) | ![Break](https://via.placeholder.com/300x200?text=Break+Piggy) |
+| ![Break](src/assets/functionalities.png) | ![Transaction_List](src/assets/transaction_list.png) | ![piggi_UI](src/assets/piggi_bank_ui.png) |
 
-> *(You can replace these placeholder images with actual screenshots of your app)*
+> demo_video :"https://drive.google.com/file/d/1H5uIvVmSfrU8KZ4fy9OqYS7ZIf-3vP7R/view?usp=sharing"
 
 ---
 
